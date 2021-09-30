@@ -1,9 +1,0 @@
-﻿{
-  "agentId": 2,
-  "agentName": "qito",
-  "poolId": 1,
-  "poolName": "Default",
-  "serverUrl": "https://pipelines.actions.githubusercontent.com/OZyUeWCL25G72S7Dow9Qb2X5Tdcqz1DQqu2wM9BiaUtURLzP81",
-  "gitHubUrl": "https://github.com/rizqito/hw-server-deploy",
-  "workFolder": "_work"
-}
